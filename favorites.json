@@ -1,0 +1,81 @@
+{ 
+  // Poems!
+  "Poem" : [
+  {
+    "Title" : "Sonnet 43",
+    "Author" : "William Shakespeare",
+    "Body" : "When most I wink, then do mine eyes best see,\nFor all the day they view things unrespected;\nBut when I sleep, in dreams they look on thee,\nAnd darkly bright, are bright in dark directed.\nThen thou, whose shadow shadows doth make bright,\nHow would thy shadow's form form happy show\nTo the clear day with thy much clearer light,\nWhen to unseeing eyes thy shade shines so! \nHow would, I say, mine eyes be blessed made\nBy looking on thee in the living day,\nWhen in dead night thy fair imperfect shade\nThrough heavy sleep on sightless eyes doth stay!\n All days are nights to see till I see thee,\n And nights bright days when dreams do show thee me."
+  },
+
+  {
+    "Title" : "Go to the limits of your longing",
+    "Author" : "Rainer Maria Rilke",
+    "Body" : "God speaks to each of us as he makes us,\nthen walks with us silently out of the night.\n\nThese are the words we dimly hear:\n\nYou, sent out beyond your recall,\ngo to the limits of your longing.\nEmbody me.\n\nFlare up like a flame\nand make big shadows I can move in.\n\nLet everything happen to you: beauty and terror.\nJust keep going. No feeling is final.\nDon't let yourself lose me.\n\nNearby is the country they call life.\nYou will know it by its seriousness.\n\nGive me your hand."
+  },
+
+  {
+    "Title" : "The More Loving One",
+    "Author" : "W.H. Auden",
+    "Body" : "Looking up at the stars, I know quite well\nThat, for all they care, I can go to hell,\nBut on earth indifference is the least\nWe have to dread from man or beast.\n\nHow should we like it were stars to burn\nWith a passion for us we could not return?\nIf equal affection cannot be,\nLet the more loving one be me.\n\nAdmirer as I think I am\nOf stars that do not give a damn,\nI cannot, now I see them, say\nI missed one terribly all day.\n\nWere all stars to disappear or die,\nI should learn to look at an empty sky\nAnd feel its total dark sublime,\nThough this might take me a little time."
+  },
+
+  {
+    "Title" : "O Me! O Life!",
+    "Author" : "Walt Whitman",
+    "Body" : "Oh me! Oh life! of the questions of these recurring,\nOf the endless trains of the faithless, of cities filld with the foolish,\nOf myself forever reproaching myself, (for who more foolish than I, and who more faithless?)\nOf eyes that vainly crave the light, of the objects mean, of the struggle ever renewd,\nOf the poor results of all, of the plodding and sordid crowds I see around me,\nOf the empty and useless years of the rest, with the rest me intertwined,\nThe question, O me! so sad, recurringWhat good amid these, O me, O life?\n\n                                       Answer.\nThat you are herethat life exists and identity,\nThat the powerful play goes on, and you may contribute a verse."
+  },
+
+  {
+    "Title" : "Unfortunate Coincidence",
+    "Author" : "Dorothy Parker",
+    "Body" : "By the time you swear you're his,\nShivering and sighing,\nAnd he vows his passion is\nInfinite, undying -\nLady, make a note of this:\nOne of you is lying."
+  },
+
+  {
+    "Title" : "I Know I Have Been Happiest",
+    "Author" : "Dorothy Parker",
+    "Body" : "I know I have been happiest at your side;\nBut what is done, is done, and all's to be.\nAnd small the good, to linger dolefully-\nGayly it lived, and gallantly it died.\nI will not make you songs of hearts denied,\nAnd you, being man, would have no tears of me,\nAnd should I offer you fidelity,\nYou'd be, I think, a little terrified.\n\nYet this the need of woman, this her curse:\nTo range her little gifts, and give, and give,\nBecause the throb of giving's sweet to bear.\nTo you, who never begged me vows or verse,\nMy gift shall be my absence, while I live;\nBut after that, my dear, I cannot swear."
+  }
+
+  ], // end of Poem array
+
+  // Songs!
+  "Song" : [
+  {
+    "Title" : "Sonnet 43",
+    "Artist" : "Rufus Wainwright",
+    "Link" : "https://www.youtube.com/watch?v=ctQ4E9AZCX4",
+    "Embed Code" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ctQ4E9AZCX4\" frameborder=\"0\" allowfullscreen></iframe>"
+  },
+
+  {
+    "Title" : "The Stars Came Out Once The Lights Went Out",
+    "Artist" : "The Veils",
+    "Link" : "https://www.youtube.com/watch?v=srxkMUg-tqk",
+    "Embed Code" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/srxkMUg-tqk\" frameborder=\"0\" allowfullscreen></iframe>"
+  }
+
+  ], // end of Song array
+
+  "Video" : [
+  {
+    "Title" : "This Is Water",
+    "Author" : "David Foster Wallace",
+    "Link" : "https://www.youtube.com/watch?v=PhhC_N6Bm_s",
+    "Embed Code" : "<iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/PhhC_N6Bm_s\" frameborder=\"0\" allowfullscreen></iframe>"
+  },
+  {
+    "Title" : "Timelapse: Albuquerque Balloon Fiesta",
+    "Author" : "Roadtrippers",
+    "Link" : "https://www.youtube.com/watch?v=l8YaMK4-MYg",
+    "Embed Code" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/l8YaMK4-MYg\" frameborder=\"0\" allowfullscreen></iframe>"
+  },
+  {
+    "Title" : "Is BMO From Adventure Time Expressive of Feminism?",
+    "Author" : "PBS Idea Channel",
+    "Link" : "https://www.youtube.com/watch?v=uqtNSdDFGBM",
+    "Embed Code" : "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/uqtNSdDFGBM\" frameborder=\"0\" allowfullscreen></iframe>"
+  }
+  ]
+
+}
